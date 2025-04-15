@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Appointment app</string>
+    <string name="schedule_appointment_n_with_ease">Schedule Appointment\n with Ease</string>
+    <string name="how_are_you_today">How Are You Today?</string>
+    <string name="hi_mohsen_jamali">Hi, Mohsen Jamali</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click_to_register</string>
+    <string name="logout">LOGOUT</string>
+</resources>
